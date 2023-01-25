@@ -11,7 +11,7 @@ o88o     o8888o o888ooooood8 o888o  o888o o88o     o8888o          o888o     o88
 
 
  	
-						   Maded by kommandant 
+						   Coded by kommandant 
 """
 begin
 puts "Enter the url:"
